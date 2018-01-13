@@ -1,0 +1,17 @@
+AllCops:
+  Exclude:
+    - 'tmp/**/*'
+    - 'db/**/*'
+  TargetRubyVersion: 2.4.1
+
+Style/Encoding:
+  Enabled: true
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Documentation:
+  Enabled: false
