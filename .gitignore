@@ -9,3 +9,5 @@
 !/tmp/.keep
 
 .byebug_history
+
+config/bot.yml
